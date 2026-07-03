@@ -42,8 +42,6 @@ Main CMS files used from the 2024 MLR Public Use File:
 │   └── Simplified Health MLR Interpretation Study - 2024.xlsx
 ├── data/
 │   └── raw CMS files are not redistributed here
-└── output/
-    └── summary tables, if exported later
 ```
 
 Note: The workbook is the primary project artifact. The raw CMS files can be downloaded from CMS directly.
